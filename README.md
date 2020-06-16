@@ -4,6 +4,8 @@ Docente: Rafael Levi
 
 Aluno: Alfredo Vieira Roman
 
+==================================================================================
+
 # Componentes
 Componentes dos Aplicativos criados na aula de Desenvolvimento de Sistemas para Dispositivos Móveis
 Tutorial: https://www.youtube.com/watch?v=lnV34uLEzis
