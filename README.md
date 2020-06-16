@@ -34,7 +34,7 @@ Os componentes utilizados foram:
 View: Componente responsável por criar uma interface para o usuário. 
 
 Video: https://www.youtube.com/watch?v=dEqsPnehMkc
-
+____________________________________________________________________________________
 
 Image: Componente utilizado para exibir diferentes tipos de imagens. 
 
