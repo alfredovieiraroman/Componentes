@@ -1,5 +1,7 @@
 #Senai/Ba Dendezeiros
+
 Docente: Rafael Levi
+
 Aluno: Alfredo Vieira Roman
 
 # Componentes
